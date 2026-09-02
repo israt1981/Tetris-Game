@@ -3,7 +3,7 @@
 <p align="center">
   A classic and interactive Tetris game built using Python. 
   <br />
-  <a href="[Your_Live_Link_Here]"><strong>Explore the Live Version »</strong></a>
+  <a href="https://israt1981.github.io/Tetris-Game/"><strong>Explore the Live Version »</strong></a>
 </p>
 
 <p align="center">
@@ -41,4 +41,4 @@ This project is a modern take on the classic arcade game, Tetris[cite: 1]. Devel
 
 **Step 1:** রিপজিটরিটি ক্লোন করুন
 ```bash
-git clone [https://github.com/israt1981/your-repo-name.git](https://github.com/israt1981/your-repo-name.git)
+git clone [https://github.com/israt1981/Tetris-Game.git](https://github.com/israt1981/Tetris-Game.git)
